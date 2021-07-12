@@ -1,0 +1,15 @@
+package inheritance;
+
+public class CorporateCustomer extends Customer {
+	
+	 int taxNumber;
+	 String companyName;
+	 
+	 public int gettaxNumber() {
+		 return this.taxNumber;
+	 }
+	 
+	 public void settaxNumber(int taxNumber) {
+		 this.taxNumber = taxNumber;
+	 }
+}

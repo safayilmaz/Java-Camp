@@ -1,0 +1,8 @@
+package oopintro;
+
+public class ProductManager {
+	public void AddtoCart(Product product) {
+		System.out.print(product.productName + " ürünü sepete eklendi  ");
+	}
+
+}

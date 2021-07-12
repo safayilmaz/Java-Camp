@@ -1,0 +1,13 @@
+package intro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String internetSubeButton = "İnternet Şube 2";
+		
+		System.out.print(internetSubeButton);
+	}
+
+}

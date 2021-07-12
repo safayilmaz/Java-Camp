@@ -1,0 +1,9 @@
+package oopintro;
+
+public class Product {
+
+	int id;
+	String productName;
+	double unitPrice;
+	String detail;
+}

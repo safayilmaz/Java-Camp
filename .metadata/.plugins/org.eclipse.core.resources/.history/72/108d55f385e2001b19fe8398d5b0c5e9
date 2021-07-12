@@ -1,0 +1,10 @@
+package inheritance;
+
+public class IndividualCustomer extends Customer {
+	
+	int identityNumber;
+	String name;
+	String surname;
+	
+
+}

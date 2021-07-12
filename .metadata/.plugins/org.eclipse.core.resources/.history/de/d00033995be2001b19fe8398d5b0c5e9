@@ -1,0 +1,16 @@
+package oopintro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Product newProduct = new Product();
+		newProduct.productName = "iPhone 12 Pro Max";
+		newProduct.id = 1;
+		newProduct.unitPrice = 12.500;
+		newProduct.detail = "This is the best telephone";
+		
+		System.out.print(newProduct.id + " " + newProduct.productName + " " + newProduct.unitPrice + " " + newProduct.detail );
+	}
+
+}
