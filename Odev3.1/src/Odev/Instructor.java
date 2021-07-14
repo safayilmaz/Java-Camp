@@ -2,10 +2,12 @@ package Odev;
 
 public class Instructor extends User {
 
+	//private fields
 	private int id;
 	private int instructorNumber;
 	private String branch;
-	
+
+	//Empty Constructor
 	public Instructor()
 	{
 		
@@ -17,6 +19,7 @@ public class Instructor extends User {
 		this.branch = branch;
 	}
 
+	//Encapsulate fields
 	public int getId() {
 		return id;
 	}

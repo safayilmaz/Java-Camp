@@ -1,13 +1,16 @@
 package Odev;
 
 public class Student extends User {
+
+	//private fields
 	private int id;
 	private int studentNumber;
 	private String course;
-
+	//Empty constructor
 	public Student () {
 		
 	}
+
 	public Student ( int id, int studentNumber, String course) {
 		super();
 		this.id = id;
@@ -15,6 +18,7 @@ public class Student extends User {
 		this.course = course;
 	}
 
+	//Encapsulate fields
 	public int getId() {
 		return id;
 	}
