@@ -10,7 +10,6 @@ public class Instructor extends User {
 	{
 		
 	}
-
 	public Instructor(int id, int instructorNumber, String branch) {
 		super();
 		this.id = id;

@@ -1,7 +1,6 @@
 package Odev;
 
 public class Student extends User {
-
 	private int id;
 	private int studentNumber;
 	private String course;
