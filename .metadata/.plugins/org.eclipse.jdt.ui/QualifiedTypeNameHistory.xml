@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="nLayeredDemo.entitites.abstracts.Entity"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="nLayeredDemo.dataaccess.abstracts.ProductDao"/>
     <fullyQualifiedTypeName name="nLayeredDemo.business.abstracts.ProductService"/>
     <fullyQualifiedTypeName name="nLayeredDemo.dataaccess.concretes.HibernateProductDao"/>
     <fullyQualifiedTypeName name="nLayeredDemo.business.concretes.ProductManager"/>
     <fullyQualifiedTypeName name="nLayeredDemo.entitites.concretes.Product"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
