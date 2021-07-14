@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eff818a-48b7-4273-ad13-8744b3cac1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Odev3.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/InstructorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Odev/UserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev3.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/Odev3.1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/InstructorManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/StudentManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Odev3.1/src/Odev/UserManager.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9eff818a-48b7-4273-ad13-8744b3cac1f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +49,7 @@
       <updated>1626271175239</updated>
       <workItem from="1626271178807" duration="121000" />
       <workItem from="1626271379883" duration="3676000" />
-      <workItem from="1626276509400" duration="85000" />
+      <workItem from="1626276509400" duration="696000" />
     </task>
     <servers />
   </component>
