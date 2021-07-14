@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eff818a-48b7-4273-ad13-8744b3cac1f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/Instructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/InstructorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/InstructorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/Odev3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/InstructorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Odev3.2/src/Odev/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Odev3.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/InstructorManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/StudentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/UserManager.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +46,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1vJDCMcl82T4TzBJJHjplhl0alJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -68,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626271175239</updated>
       <workItem from="1626271178807" duration="121000" />
-      <workItem from="1626271379883" duration="3676000" />
+      <workItem from="1626271379883" duration="3817000" />
     </task>
     <servers />
   </component>
@@ -85,5 +116,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

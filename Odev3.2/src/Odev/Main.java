@@ -11,6 +11,7 @@ public class Main {
 		newStudent2.setUserNumber(0002);
 		Instructor newInstructor = new Instructor();
 		newInstructor.setUserNumber(0003);
+		newInstructor.setBranch("Computer Science");
 		Instructor newInstructor2 = new Instructor();
 		newInstructor2.setUserNumber(0004);
 
@@ -23,6 +24,9 @@ public class Main {
 		StudentManager studentManager = new StudentManager();
 		studentManager.enrollNewCourse(newStudent);
 
+		//
+		InstructorManager instructorManager = new InstructorManager();
+		instructorManager.addNewBranch(newInstructor);
 
 	}
 
