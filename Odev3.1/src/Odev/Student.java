@@ -6,11 +6,13 @@ public class Student extends User {
 	private int id;
 	private int studentNumber;
 	private String course;
-	//Empty constructor
+
+	//This is the empty constructor
 	public Student () {
 		
 	}
 
+	//parameterized constructor with 3 parameters
 	public Student ( int id, int studentNumber, String course) {
 		super();
 		this.id = id;

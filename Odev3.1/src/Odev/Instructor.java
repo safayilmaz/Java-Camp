@@ -7,11 +7,13 @@ public class Instructor extends User {
 	private int instructorNumber;
 	private String branch;
 
-	//Empty Constructor
+	//This is the empty constructor
 	public Instructor()
 	{
 		
 	}
+
+	//parameterized constructor with 3 parameters
 	public Instructor(int id, int instructorNumber, String branch) {
 		super();
 		this.id = id;

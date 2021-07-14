@@ -6,6 +6,7 @@ public class Main {
 		//Creating a new user from object Student and Instructor
 		Student newStudent = new Student();
 		newStudent.setUserNumber(0001);
+		newStudent.setCourse("Math");
 		Student newStudent2 = new Student();
 		newStudent2.setUserNumber(0002);
 		Instructor newInstructor = new Instructor();
@@ -17,6 +18,10 @@ public class Main {
 		UserManager userManager = new UserManager();
 		User[] users = {newStudent, newStudent2, newInstructor, newInstructor2};
 		userManager.addMultipleUser(users);
+
+		//
+		StudentManager studentManager = new StudentManager();
+		studentManager.enrollNewCourse(newStudent);
 
 
 	}

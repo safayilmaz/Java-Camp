@@ -4,10 +4,10 @@
     <list default="true" id="9eff818a-48b7-4273-ad13-8744b3cac1f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Odev/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/InstructorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/InstructorManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Odev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Odev/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Odev/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Odev/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Odev/StudentManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626271175239</updated>
       <workItem from="1626271178807" duration="121000" />
-      <workItem from="1626271379883" duration="3200000" />
+      <workItem from="1626271379883" duration="3676000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,9 @@
 package Odev;
 public class StudentManager {
 
-	Student studentFirst = new Student();
-	public void enrollNewCourse(String course) {
-		studentFirst.setCourse(course);
+	public void enrollNewCourse(Student student) {
+
+		System.out.println("The new course was added succesfully to DB : "+student.getCourse());
 		
 	}
 }
