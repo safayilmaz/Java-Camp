@@ -18,7 +18,7 @@ public class StarbucksCustomerManager extends BaseCustomerManager implements Cus
 		{
 			System.out.println("Saved to db : "+ customer.getFirstName());
 		}else {
-			System.out.println("Starbucks'a Eklenmedi Çünkü Doðrulanmamýþ Kiþi");
+			System.out.println("Not a valid person");
 		}
 		
 		
