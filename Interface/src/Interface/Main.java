@@ -11,7 +11,7 @@ public class Main {
     newCustomer.setFirstName("Safa");
     newCustomer.setLastName("Yilmaz");
 
-    CustomerManager customerManager = new CustomerManager(new DatabaseLogger());
+    CustomerManager customerManager = new CustomerManager(new FileLogger());
     customerManager.Add(newCustomer);
 
     }
