@@ -1,15 +1,13 @@
 package northwind.northwind.entities.concretes;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "products")
 public class Product {
 
     @Id
+    @GeneratedValue
     @Column(name = "product_id")
     private int id;
 
