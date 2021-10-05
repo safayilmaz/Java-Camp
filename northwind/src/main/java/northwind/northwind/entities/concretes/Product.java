@@ -26,6 +26,10 @@ public class Product {
     @Column(name = "quantity_per_unit")
     private String quantityPerUnit;
 
+    public Product() {
+
+    }
+
     public Product(int id, int categoryId, String productName, double unitPrice, short unitsInStock, String quantityPerUnit) {
         this.setId(id);
         this.setCategoryId(categoryId);
@@ -35,9 +39,7 @@ public class Product {
         this.setQuantityPerUnit(quantityPerUnit);
     }
 
-    public Product() {
 
-    }
 
 
     public int getId() {
