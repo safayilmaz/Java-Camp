@@ -30,8 +30,8 @@ public class UserManager implements IUserManagerService {
 
     @Override
     public void signUp(User user) {
-        if (userCheckService.checkUser(user) && userCheckService.checkGoogleEmail(user)){
-            System.out.println("You have successfully signed up");
+        if (userCheckService.checkUser(user) || userCheckService.checkGoogleEmail(user)){
+            userService.add(user);
         }
         else {
             System.out.println("Oops !");
