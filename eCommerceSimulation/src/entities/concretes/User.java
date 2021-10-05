@@ -3,15 +3,6 @@ package entities.concretes;
 import entities.abstracts.IUser;
 
 public class User implements IUser {
-    @Override
-    public void add(User user) {
-
-    }
-
-    @Override
-    public void delete(User user) {
-
-    }
 
     private int id;
     private String name;
